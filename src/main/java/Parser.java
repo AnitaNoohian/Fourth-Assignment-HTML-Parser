@@ -61,14 +61,57 @@ public class Parser {
         Parser test = new Parser();
         try {
             test.setUp();
-        //    test.menu(test);
+            test.menu(test);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.getMessage();
         }
     }
-
-
-
+    public void menu(Parser test) throws IOException{
+        System.out.println("Welcome\n");
+        for (int i = 0; i < countries.size() ; i++) {
+            System.out.println(i + countries.get(i).toString());
+        }
+        loop:
+        while (true) {
+            System.out.println("\nSortBy : Name - Population - Area - Back");
+            Scanner in = new Scanner(System.in);
+            String input = in.next();
+            switch (input) {
+                case "Name":
+                    List<Country> name = test.sortByName();
+                    FileWriter nameWriter = new FileWriter("sortByName.txt");
+                    for (int i = 0; i < name.size(); i++) {
+                        nameWriter.write(i + name.get(i).toString());
+                    }
+                    nameWriter.close();
+                    System.out.println("Now a \"sortByName.txt\" file save in your computer with data you want!");
+                    break;
+                case "Population":
+                    List<Country> population = test.sortByPopulation();
+                    FileWriter populationWriter = new FileWriter("sortByPopulation.txt");
+                    for (int i = 0; i < population.size(); i++) {
+                        populationWriter.write(i + population.get(i).toString());
+                    }
+                    populationWriter.close();
+                    System.out.println("Now a \"sortByPopulation.txt\" file save in your computer with data you want!");
+                    break;
+                case "Area":
+                    List<Country> area = test.sortByArea();
+                    FileWriter areaWriter = new FileWriter("sortByArea.txt");
+                    for (int i = 0; i < area.size(); i++) {
+                        areaWriter.write(i + area.get(i).toString());
+                    }
+                    areaWriter.close();
+                    System.out.println("Now a \"sortByArea.txt\" file save in your computer with data you want!");
+                    break;
+                case "Back":
+                    break loop;
+                default:
+                    System.out.println("You entered a wrong phrase!");
+            }
+        }
+        System.out.println("Thanks for using^^");
+    }
 }
