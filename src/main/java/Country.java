@@ -8,7 +8,6 @@ public class Country {
 
     public Country(String name, String capital, int population, double area) {
         //TODO
-
     }
 
     public String getName() {
