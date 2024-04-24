@@ -13,7 +13,7 @@ public class Parser {
         List<Country> sortedByName = new ArrayList<>(countries);
         // Sort countries alphabetically (least)
         //TODO
-
+        Collections.sort(sortedByName,Comparator.comparing(Country::getName));
         return sortedByName;
     }
 
@@ -21,7 +21,7 @@ public class Parser {
         List<Country> sortedByPopulation = new ArrayList<>(countries);
         // Sort countries by population (most)
         //TODO
-
+        Collections.sort(sortedByPopulation , Comparator.comparing(Country::getPopulation).reversed());
         return sortedByPopulation;
     }
 
@@ -29,6 +29,7 @@ public class Parser {
         List<Country> sortedByArea = new ArrayList<>(countries);
         // Sort countries by area (most)
         //TODO
+        Collections.sort(sortedByArea , Comparator.comparing(Country::getArea).reversed());
         return sortedByArea;
     }
 
