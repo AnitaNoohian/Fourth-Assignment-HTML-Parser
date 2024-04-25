@@ -1,0 +1,250 @@
+0-Country: China, capital: Beijing, population: 1330044000, area: 9596960.0
+1-Country: India, capital: New Delhi, population: 1173108018, area: 3287590.0
+2-Country: United States, capital: Washington, population: 310232863, area: 9629091.0
+3-Country: Indonesia, capital: Jakarta, population: 242968342, area: 1919440.0
+4-Country: Brazil, capital: Brasília, population: 201103330, area: 8511965.0
+5-Country: Pakistan, capital: Islamabad, population: 184404791, area: 803940.0
+6-Country: Bangladesh, capital: Dhaka, population: 156118464, area: 144000.0
+7-Country: Nigeria, capital: Abuja, population: 154000000, area: 923768.0
+8-Country: Russia, capital: Moscow, population: 140702000, area: 1.71E7
+9-Country: Japan, capital: Tokyo, population: 127288000, area: 377835.0
+10-Country: Mexico, capital: Mexico City, population: 112468855, area: 1972550.0
+11-Country: Philippines, capital: Manila, population: 99900177, area: 300000.0
+12-Country: Vietnam, capital: Hanoi, population: 89571130, area: 329560.0
+13-Country: Ethiopia, capital: Addis Ababa, population: 88013491, area: 1127127.0
+14-Country: Germany, capital: Berlin, population: 81802257, area: 357021.0
+15-Country: Egypt, capital: Cairo, population: 80471869, area: 1001450.0
+16-Country: Turkey, capital: Ankara, population: 77804122, area: 780580.0
+17-Country: Iran, capital: Tehran, population: 76923300, area: 1648000.0
+18-Country: Democratic Republic of the Congo, capital: Kinshasa, population: 70916439, area: 2345410.0
+19-Country: Thailand, capital: Bangkok, population: 67089500, area: 514000.0
+20-Country: France, capital: Paris, population: 64768389, area: 547030.0
+21-Country: United Kingdom, capital: London, population: 62348447, area: 244820.0
+22-Country: Italy, capital: Rome, population: 60340328, area: 301230.0
+23-Country: Myanmar [Burma], capital: Naypyitaw, population: 53414374, area: 678500.0
+24-Country: South Africa, capital: Pretoria, population: 49000000, area: 1219912.0
+25-Country: South Korea, capital: Seoul, population: 48422644, area: 98480.0
+26-Country: Colombia, capital: Bogotá, population: 47790000, area: 1138910.0
+27-Country: Spain, capital: Madrid, population: 46505963, area: 504782.0
+28-Country: Ukraine, capital: Kiev, population: 45415596, area: 603700.0
+29-Country: Tanzania, capital: Dodoma, population: 41892895, area: 945087.0
+30-Country: Argentina, capital: Buenos Aires, population: 41343201, area: 2766890.0
+31-Country: Kenya, capital: Nairobi, population: 40046566, area: 582650.0
+32-Country: Poland, capital: Warsaw, population: 38500000, area: 312685.0
+33-Country: Sudan, capital: Khartoum, population: 35000000, area: 1861484.0
+34-Country: Algeria, capital: Algiers, population: 34586184, area: 2381740.0
+35-Country: Canada, capital: Ottawa, population: 33679000, area: 9984670.0
+36-Country: Uganda, capital: Kampala, population: 33398682, area: 236040.0
+37-Country: Morocco, capital: Rabat, population: 31627428, area: 446550.0
+38-Country: Peru, capital: Lima, population: 29907003, area: 1285220.0
+39-Country: Iraq, capital: Baghdad, population: 29671605, area: 437072.0
+40-Country: Afghanistan, capital: Kabul, population: 29121286, area: 647500.0
+41-Country: Nepal, capital: Kathmandu, population: 28951852, area: 140800.0
+42-Country: Malaysia, capital: Kuala Lumpur, population: 28274729, area: 329750.0
+43-Country: Uzbekistan, capital: Tashkent, population: 27865738, area: 447400.0
+44-Country: Venezuela, capital: Caracas, population: 27223228, area: 912050.0
+45-Country: Saudi Arabia, capital: Riyadh, population: 25731776, area: 1960582.0
+46-Country: Ghana, capital: Accra, population: 24339838, area: 239460.0
+47-Country: Yemen, capital: Sanaa, population: 23495361, area: 527970.0
+48-Country: North Korea, capital: Pyongyang, population: 22912177, area: 120540.0
+49-Country: Taiwan, capital: Taipei, population: 22894384, area: 35980.0
+50-Country: Syria, capital: Damascus, population: 22198110, area: 185180.0
+51-Country: Mozambique, capital: Maputo, population: 22061451, area: 801590.0
+52-Country: Romania, capital: Bucharest, population: 21959278, area: 237500.0
+53-Country: Australia, capital: Canberra, population: 21515754, area: 7686850.0
+54-Country: Sri Lanka, capital: Colombo, population: 21513990, area: 65610.0
+55-Country: Madagascar, capital: Antananarivo, population: 21281844, area: 587040.0
+56-Country: Ivory Coast, capital: Yamoussoukro, population: 21058798, area: 322460.0
+57-Country: Cameroon, capital: Yaoundé, population: 19294149, area: 475440.0
+58-Country: Chile, capital: Santiago, population: 16746491, area: 756950.0
+59-Country: Netherlands, capital: Amsterdam, population: 16645000, area: 41526.0
+60-Country: Burkina Faso, capital: Ouagadougou, population: 16241811, area: 274200.0
+61-Country: Niger, capital: Niamey, population: 15878271, area: 1267000.0
+62-Country: Malawi, capital: Lilongwe, population: 15447500, area: 118480.0
+63-Country: Kazakhstan, capital: Astana, population: 15340000, area: 2717300.0
+64-Country: Ecuador, capital: Quito, population: 14790608, area: 283560.0
+65-Country: Cambodia, capital: Phnom Penh, population: 14453680, area: 181040.0
+66-Country: Mali, capital: Bamako, population: 13796354, area: 1240000.0
+67-Country: Guatemala, capital: Guatemala City, population: 13550440, area: 108890.0
+68-Country: Zambia, capital: Lusaka, population: 13460305, area: 752614.0
+69-Country: Angola, capital: Luanda, population: 13068161, area: 1246700.0
+70-Country: Senegal, capital: Dakar, population: 12323252, area: 196190.0
+71-Country: Zimbabwe, capital: Harare, population: 11651858, area: 390580.0
+72-Country: Cuba, capital: Havana, population: 11423000, area: 110860.0
+73-Country: Rwanda, capital: Kigali, population: 11055976, area: 26338.0
+74-Country: Greece, capital: Athens, population: 11000000, area: 131940.0
+75-Country: Portugal, capital: Lisbon, population: 10676000, area: 92391.0
+76-Country: Tunisia, capital: Tunis, population: 10589025, area: 163610.0
+77-Country: Chad, capital: N'Djamena, population: 10543464, area: 1284000.0
+78-Country: Czech Republic, capital: Prague, population: 10476000, area: 78866.0
+79-Country: Belgium, capital: Brussels, population: 10403000, area: 30510.0
+80-Country: Guinea, capital: Conakry, population: 10324025, area: 245857.0
+81-Country: Somalia, capital: Mogadishu, population: 10112453, area: 637657.0
+82-Country: Hungary, capital: Budapest, population: 9982000, area: 93030.0
+83-Country: Bolivia, capital: Sucre, population: 9947418, area: 1098580.0
+84-Country: Burundi, capital: Bujumbura, population: 9863117, area: 27830.0
+85-Country: Sweden, capital: Stockholm, population: 9828655, area: 449964.0
+86-Country: Dominican Republic, capital: Santo Domingo, population: 9823821, area: 48730.0
+87-Country: Belarus, capital: Minsk, population: 9685000, area: 207600.0
+88-Country: Haiti, capital: Port-au-Prince, population: 9648924, area: 27750.0
+89-Country: Benin, capital: Porto-Novo, population: 9056010, area: 112620.0
+90-Country: Azerbaijan, capital: Baku, population: 8303512, area: 86600.0
+91-Country: South Sudan, capital: Juba, population: 8260490, area: 644329.0
+92-Country: Austria, capital: Vienna, population: 8205000, area: 83858.0
+93-Country: Honduras, capital: Tegucigalpa, population: 7989415, area: 112090.0
+94-Country: Switzerland, capital: Bern, population: 7581000, area: 41290.0
+95-Country: Tajikistan, capital: Dushanbe, population: 7487489, area: 143100.0
+96-Country: Israel, capital: None, population: 7353985, area: 20770.0
+97-Country: Serbia, capital: Belgrade, population: 7344847, area: 88361.0
+98-Country: Bulgaria, capital: Sofia, population: 7148785, area: 110910.0
+99-Country: Hong Kong, capital: Hong Kong, population: 6898686, area: 1092.0
+100-Country: Togo, capital: Lomé, population: 6587239, area: 56785.0
+101-Country: Libya, capital: Tripoli, population: 6461454, area: 1759540.0
+102-Country: Jordan, capital: Amman, population: 6407085, area: 92300.0
+103-Country: Paraguay, capital: Asunción, population: 6375830, area: 406750.0
+104-Country: Laos, capital: Vientiane, population: 6368162, area: 236800.0
+105-Country: Papua New Guinea, capital: Port Moresby, population: 6064515, area: 462840.0
+106-Country: El Salvador, capital: San Salvador, population: 6052064, area: 21040.0
+107-Country: Nicaragua, capital: Managua, population: 5995928, area: 129494.0
+108-Country: Eritrea, capital: Asmara, population: 5792984, area: 121320.0
+109-Country: Kyrgyzstan, capital: Bishkek, population: 5776500, area: 198500.0
+110-Country: Denmark, capital: Copenhagen, population: 5484000, area: 43094.0
+111-Country: Slovakia, capital: Bratislava, population: 5455000, area: 48845.0
+112-Country: Sierra Leone, capital: Freetown, population: 5245695, area: 71740.0
+113-Country: Finland, capital: Helsinki, population: 5244000, area: 337030.0
+114-Country: Norway, capital: Oslo, population: 5009150, area: 324220.0
+115-Country: United Arab Emirates, capital: Abu Dhabi, population: 4975593, area: 82880.0
+116-Country: Turkmenistan, capital: Ashgabat, population: 4940916, area: 488100.0
+117-Country: Central African Republic, capital: Bangui, population: 4844927, area: 622984.0
+118-Country: Singapore, capital: Singapore, population: 4701069, area: 692.7
+119-Country: Georgia, capital: Tbilisi, population: 4630000, area: 69700.0
+120-Country: Ireland, capital: Dublin, population: 4622917, area: 70280.0
+121-Country: Bosnia and Herzegovina, capital: Sarajevo, population: 4590000, area: 51129.0
+122-Country: Costa Rica, capital: San José, population: 4516220, area: 51100.0
+123-Country: Croatia, capital: Zagreb, population: 4491000, area: 56542.0
+124-Country: Moldova, capital: Chişinău, population: 4324000, area: 33843.0
+125-Country: New Zealand, capital: Wellington, population: 4252277, area: 268680.0
+126-Country: Lebanon, capital: Beirut, population: 4125247, area: 10400.0
+127-Country: Puerto Rico, capital: San Juan, population: 3916632, area: 9104.0
+128-Country: Palestine, capital: None, population: 3800000, area: 5970.0
+129-Country: Liberia, capital: Monrovia, population: 3685076, area: 111370.0
+130-Country: Uruguay, capital: Montevideo, population: 3477000, area: 176220.0
+131-Country: Panama, capital: Panama City, population: 3410676, area: 78200.0
+132-Country: Mauritania, capital: Nouakchott, population: 3205060, area: 1030700.0
+133-Country: Mongolia, capital: Ulan Bator, population: 3086918, area: 1565000.0
+134-Country: Republic of the Congo, capital: Brazzaville, population: 3039126, area: 342000.0
+135-Country: Albania, capital: Tirana, population: 2986952, area: 28748.0
+136-Country: Armenia, capital: Yerevan, population: 2968000, area: 29800.0
+137-Country: Oman, capital: Muscat, population: 2967717, area: 212460.0
+138-Country: Lithuania, capital: Vilnius, population: 2944459, area: 65200.0
+139-Country: Jamaica, capital: Kingston, population: 2847232, area: 10991.0
+140-Country: Kuwait, capital: Kuwait City, population: 2789132, area: 17820.0
+141-Country: Latvia, capital: Riga, population: 2217969, area: 64589.0
+142-Country: Namibia, capital: Windhoek, population: 2128471, area: 825418.0
+143-Country: Macedonia, capital: Skopje, population: 2062294, area: 25333.0
+144-Country: Botswana, capital: Gaborone, population: 2029307, area: 600370.0
+145-Country: Slovenia, capital: Ljubljana, population: 2007000, area: 20273.0
+146-Country: Lesotho, capital: Maseru, population: 1919552, area: 30355.0
+147-Country: Kosovo, capital: Pristina, population: 1800000, area: 10908.0
+148-Country: Gambia, capital: Bathurst, population: 1593256, area: 11300.0
+149-Country: Guinea-Bissau, capital: Bissau, population: 1565126, area: 36120.0
+150-Country: Gabon, capital: Libreville, population: 1545255, area: 267667.0
+151-Country: Swaziland, capital: Mbabane, population: 1354051, area: 17363.0
+152-Country: Mauritius, capital: Port Louis, population: 1294104, area: 2040.0
+153-Country: Estonia, capital: Tallinn, population: 1291170, area: 45226.0
+154-Country: Trinidad and Tobago, capital: Port of Spain, population: 1228691, area: 5128.0
+155-Country: East Timor, capital: Dili, population: 1154625, area: 15007.0
+156-Country: Cyprus, capital: Nicosia, population: 1102677, area: 9250.0
+157-Country: Equatorial Guinea, capital: Malabo, population: 1014999, area: 28051.0
+158-Country: Fiji, capital: Suva, population: 875983, area: 18270.0
+159-Country: Qatar, capital: Doha, population: 840926, area: 11437.0
+160-Country: Réunion, capital: Saint-Denis, population: 776948, area: 2517.0
+161-Country: Comoros, capital: Moroni, population: 773407, area: 2170.0
+162-Country: Guyana, capital: Georgetown, population: 748486, area: 214970.0
+163-Country: Djibouti, capital: Djibouti, population: 740528, area: 23000.0
+164-Country: Bahrain, capital: Manama, population: 738004, area: 665.0
+165-Country: Bhutan, capital: Thimphu, population: 699847, area: 47000.0
+166-Country: Montenegro, capital: Podgorica, population: 666730, area: 14026.0
+167-Country: Solomon Islands, capital: Honiara, population: 559198, area: 28450.0
+168-Country: Cape Verde, capital: Praia, population: 508659, area: 4033.0
+169-Country: Luxembourg, capital: Luxembourg, population: 497538, area: 2586.0
+170-Country: Suriname, capital: Paramaribo, population: 492829, area: 163270.0
+171-Country: Macao, capital: Macao, population: 449198, area: 254.0
+172-Country: Guadeloupe, capital: Basse-Terre, population: 443000, area: 1780.0
+173-Country: Martinique, capital: Fort-de-France, population: 432900, area: 1100.0
+174-Country: Malta, capital: Valletta, population: 403000, area: 316.0
+175-Country: Maldives, capital: Malé, population: 395650, area: 300.0
+176-Country: Brunei, capital: Bandar Seri Begawan, population: 395027, area: 5770.0
+177-Country: Belize, capital: Belmopan, population: 314522, area: 22966.0
+178-Country: Iceland, capital: Reykjavik, population: 308910, area: 103000.0
+179-Country: Bahamas, capital: Nassau, population: 301790, area: 13940.0
+180-Country: Barbados, capital: Bridgetown, population: 285653, area: 431.0
+181-Country: Western Sahara, capital: Laâyoune / El Aaiún, population: 273008, area: 266000.0
+182-Country: French Polynesia, capital: Papeete, population: 270485, area: 4167.0
+183-Country: Vanuatu, capital: Port Vila, population: 221552, area: 12200.0
+184-Country: New Caledonia, capital: Noumea, population: 216494, area: 19060.0
+185-Country: French Guiana, capital: Cayenne, population: 195506, area: 91000.0
+186-Country: Samoa, capital: Apia, population: 192001, area: 2944.0
+187-Country: São Tomé and Príncipe, capital: São Tomé, population: 175808, area: 1001.0
+188-Country: Saint Lucia, capital: Castries, population: 160922, area: 616.0
+189-Country: Guam, capital: Hagåtña, population: 159358, area: 549.0
+190-Country: Mayotte, capital: Mamoudzou, population: 159042, area: 374.0
+191-Country: Curacao, capital: Willemstad, population: 141766, area: 444.0
+192-Country: Tonga, capital: Nuku'alofa, population: 122580, area: 748.0
+193-Country: U.S. Virgin Islands, capital: Charlotte Amalie, population: 108708, area: 352.0
+194-Country: Grenada, capital: St. George's, population: 107818, area: 344.0
+195-Country: Micronesia, capital: Palikir, population: 107708, area: 702.0
+196-Country: Saint Vincent and the Grenadines, capital: Kingstown, population: 104217, area: 389.0
+197-Country: Kiribati, capital: Tarawa, population: 92533, area: 811.0
+198-Country: Jersey, capital: Saint Helier, population: 90812, area: 116.0
+199-Country: Seychelles, capital: Victoria, population: 88340, area: 455.0
+200-Country: Antigua and Barbuda, capital: St. John's, population: 86754, area: 443.0
+201-Country: Andorra, capital: Andorra la Vella, population: 84000, area: 468.0
+202-Country: Isle of Man, capital: Douglas, population: 75049, area: 572.0
+203-Country: Dominica, capital: Roseau, population: 72813, area: 754.0
+204-Country: Aruba, capital: Oranjestad, population: 71566, area: 193.0
+205-Country: Marshall Islands, capital: Majuro, population: 65859, area: 181.3
+206-Country: Bermuda, capital: Hamilton, population: 65365, area: 53.0
+207-Country: Guernsey, capital: St Peter Port, population: 65228, area: 78.0
+208-Country: American Samoa, capital: Pago Pago, population: 57881, area: 199.0
+209-Country: Greenland, capital: Nuuk, population: 56375, area: 2166086.0
+210-Country: Northern Mariana Islands, capital: Saipan, population: 53883, area: 477.0
+211-Country: Saint Kitts and Nevis, capital: Basseterre, population: 51134, area: 261.0
+212-Country: Faroe Islands, capital: Tórshavn, population: 48228, area: 1399.0
+213-Country: Cayman Islands, capital: George Town, population: 44270, area: 262.0
+214-Country: Sint Maarten, capital: Philipsburg, population: 37429, area: 21.0
+215-Country: Saint Martin, capital: Marigot, population: 35925, area: 53.0
+216-Country: Liechtenstein, capital: Vaduz, population: 35000, area: 160.0
+217-Country: Monaco, capital: Monaco, population: 32965, area: 1.95
+218-Country: San Marino, capital: San Marino, population: 31477, area: 61.2
+219-Country: Gibraltar, capital: Gibraltar, population: 27884, area: 6.5
+220-Country: Åland, capital: Mariehamn, population: 26711, area: 1580.0
+221-Country: British Virgin Islands, capital: Road Town, population: 21730, area: 153.0
+222-Country: Cook Islands, capital: Avarua, population: 21388, area: 240.0
+223-Country: Turks and Caicos Islands, capital: Cockburn Town, population: 20556, area: 430.0
+224-Country: Palau, capital: Melekeok, population: 19907, area: 458.0
+225-Country: Bonaire, capital: Kralendijk, population: 18012, area: 328.0
+226-Country: Wallis and Futuna, capital: Mata-Utu, population: 16025, area: 274.0
+227-Country: Anguilla, capital: The Valley, population: 13254, area: 102.0
+228-Country: Tuvalu, capital: Funafuti, population: 10472, area: 26.0
+229-Country: Nauru, capital: Yaren, population: 10065, area: 21.0
+230-Country: Montserrat, capital: Plymouth, population: 9341, area: 102.0
+231-Country: Saint Barthélemy, capital: Gustavia, population: 8450, area: 21.0
+232-Country: Saint Helena, capital: Jamestown, population: 7460, area: 410.0
+233-Country: Saint Pierre and Miquelon, capital: Saint-Pierre, population: 7012, area: 242.0
+234-Country: British Indian Ocean Territory, capital: None, population: 4000, area: 60.0
+235-Country: Falkland Islands, capital: Stanley, population: 2638, area: 12173.0
+236-Country: Svalbard and Jan Mayen, capital: Longyearbyen, population: 2550, area: 62049.0
+237-Country: Niue, capital: Alofi, population: 2166, area: 260.0
+238-Country: Norfolk Island, capital: Kingston, population: 1828, area: 34.6
+239-Country: Christmas Island, capital: Flying Fish Cove, population: 1500, area: 135.0
+240-Country: Tokelau, capital: None, population: 1466, area: 10.0
+241-Country: Vatican City, capital: Vatican City, population: 921, area: 0.44
+242-Country: Cocos [Keeling] Islands, capital: West Island, population: 628, area: 14.0
+243-Country: French Southern Territories, capital: Port-aux-Français, population: 140, area: 7829.0
+244-Country: Pitcairn Islands, capital: Adamstown, population: 46, area: 47.0
+245-Country: South Georgia and the South Sandwich Islands, capital: Grytviken, population: 30, area: 3903.0
+246-Country: Antarctica, capital: None, population: 0, area: 1.4E7
+247-Country: Bouvet Island, capital: None, population: 0, area: 49.0
+248-Country: Heard Island and McDonald Islands, capital: None, population: 0, area: 412.0
+249-Country: U.S. Minor Outlying Islands, capital: None, population: 0, area: 0.0
