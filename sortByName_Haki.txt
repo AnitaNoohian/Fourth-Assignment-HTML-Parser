@@ -1,0 +1,125 @@
+0-Team name: Boston Bruins Year: 1990 Wins: 44 Loses: 24
+1-Team name: Boston Bruins Year: 1991 Wins: 36 Loses: 32
+2-Team name: Boston Bruins Year: 1993 Wins: 42 Loses: 29
+3-Team name: Boston Bruins Year: 1994 Wins: 27 Loses: 18
+4-Team name: Boston Bruins Year: 1995 Wins: 40 Loses: 31
+5-Team name: Boston Bruins Year: 1996 Wins: 26 Loses: 47
+6-Team name: Buffalo Sabres Year: 1990 Wins: 31 Loses: 30
+7-Team name: Buffalo Sabres Year: 1991 Wins: 31 Loses: 37
+8-Team name: Buffalo Sabres Year: 1993 Wins: 43 Loses: 32
+9-Team name: Buffalo Sabres Year: 1994 Wins: 22 Loses: 19
+10-Team name: Buffalo Sabres Year: 1995 Wins: 33 Loses: 42
+11-Team name: Buffalo Sabres Year: 1996 Wins: 40 Loses: 30
+12-Team name: Calgary Flames Year: 1990 Wins: 46 Loses: 26
+13-Team name: Calgary Flames Year: 1991 Wins: 31 Loses: 37
+14-Team name: Calgary Flames Year: 1993 Wins: 42 Loses: 29
+15-Team name: Calgary Flames Year: 1994 Wins: 24 Loses: 17
+16-Team name: Calgary Flames Year: 1995 Wins: 34 Loses: 37
+17-Team name: Calgary Flames Year: 1996 Wins: 32 Loses: 41
+18-Team name: Chicago Blackhawks Year: 1990 Wins: 49 Loses: 23
+19-Team name: Chicago Blackhawks Year: 1991 Wins: 36 Loses: 29
+20-Team name: Chicago Blackhawks Year: 1993 Wins: 39 Loses: 36
+21-Team name: Chicago Blackhawks Year: 1994 Wins: 24 Loses: 19
+22-Team name: Chicago Blackhawks Year: 1995 Wins: 40 Loses: 28
+23-Team name: Chicago Blackhawks Year: 1996 Wins: 34 Loses: 35
+24-Team name: Colorado Avalanche Year: 1995 Wins: 47 Loses: 25
+25-Team name: Dallas Stars Year: 1993 Wins: 42 Loses: 29
+26-Team name: Dallas Stars Year: 1994 Wins: 17 Loses: 23
+27-Team name: Dallas Stars Year: 1995 Wins: 26 Loses: 42
+28-Team name: Detroit Red Wings Year: 1990 Wins: 34 Loses: 38
+29-Team name: Detroit Red Wings Year: 1993 Wins: 46 Loses: 30
+30-Team name: Detroit Red Wings Year: 1994 Wins: 33 Loses: 11
+31-Team name: Detroit Red Wings Year: 1995 Wins: 62 Loses: 13
+32-Team name: Edmonton Oilers Year: 1990 Wins: 37 Loses: 37
+33-Team name: Edmonton Oilers Year: 1993 Wins: 25 Loses: 45
+34-Team name: Edmonton Oilers Year: 1994 Wins: 17 Loses: 27
+35-Team name: Edmonton Oilers Year: 1995 Wins: 30 Loses: 44
+36-Team name: Florida Panthers Year: 1993 Wins: 33 Loses: 34
+37-Team name: Florida Panthers Year: 1994 Wins: 20 Loses: 22
+38-Team name: Florida Panthers Year: 1995 Wins: 41 Loses: 31
+39-Team name: Hartford Whalers Year: 1990 Wins: 31 Loses: 38
+40-Team name: Hartford Whalers Year: 1993 Wins: 27 Loses: 48
+41-Team name: Hartford Whalers Year: 1994 Wins: 19 Loses: 24
+42-Team name: Hartford Whalers Year: 1995 Wins: 34 Loses: 39
+43-Team name: Los Angeles Kings Year: 1990 Wins: 46 Loses: 24
+44-Team name: Los Angeles Kings Year: 1992 Wins: 39 Loses: 35
+45-Team name: Los Angeles Kings Year: 1993 Wins: 27 Loses: 45
+46-Team name: Los Angeles Kings Year: 1994 Wins: 16 Loses: 23
+47-Team name: Los Angeles Kings Year: 1995 Wins: 24 Loses: 40
+48-Team name: Mighty Ducks of Anaheim Year: 1993 Wins: 33 Loses: 46
+49-Team name: Mighty Ducks of Anaheim Year: 1994 Wins: 16 Loses: 27
+50-Team name: Mighty Ducks of Anaheim Year: 1995 Wins: 35 Loses: 39
+51-Team name: Mighty Ducks of Anaheim Year: 1996 Wins: 36 Loses: 33
+52-Team name: Minnesota North Stars Year: 1990 Wins: 27 Loses: 39
+53-Team name: Minnesota North Stars Year: 1992 Wins: 36 Loses: 38
+54-Team name: Montreal Canadiens Year: 1990 Wins: 39 Loses: 30
+55-Team name: Montreal Canadiens Year: 1992 Wins: 48 Loses: 30
+56-Team name: Montreal Canadiens Year: 1993 Wins: 41 Loses: 29
+57-Team name: Montreal Canadiens Year: 1994 Wins: 18 Loses: 23
+58-Team name: Montreal Canadiens Year: 1995 Wins: 40 Loses: 32
+59-Team name: New Jersey Devils Year: 1990 Wins: 32 Loses: 33
+60-Team name: New Jersey Devils Year: 1992 Wins: 40 Loses: 37
+61-Team name: New Jersey Devils Year: 1993 Wins: 47 Loses: 25
+62-Team name: New Jersey Devils Year: 1994 Wins: 22 Loses: 18
+63-Team name: New Jersey Devils Year: 1995 Wins: 37 Loses: 33
+64-Team name: New York Islanders Year: 1990 Wins: 25 Loses: 45
+65-Team name: New York Islanders Year: 1992 Wins: 40 Loses: 37
+66-Team name: New York Islanders Year: 1993 Wins: 36 Loses: 36
+67-Team name: New York Islanders Year: 1994 Wins: 15 Loses: 28
+68-Team name: New York Islanders Year: 1995 Wins: 22 Loses: 50
+69-Team name: New York Rangers Year: 1990 Wins: 36 Loses: 31
+70-Team name: New York Rangers Year: 1992 Wins: 34 Loses: 39
+71-Team name: New York Rangers Year: 1993 Wins: 52 Loses: 24
+72-Team name: New York Rangers Year: 1994 Wins: 22 Loses: 23
+73-Team name: New York Rangers Year: 1995 Wins: 41 Loses: 27
+74-Team name: Ottawa Senators Year: 1992 Wins: 10 Loses: 70
+75-Team name: Ottawa Senators Year: 1993 Wins: 14 Loses: 61
+76-Team name: Ottawa Senators Year: 1994 Wins: 9 Loses: 34
+77-Team name: Ottawa Senators Year: 1995 Wins: 18 Loses: 59
+78-Team name: Philadelphia Flyers Year: 1990 Wins: 33 Loses: 37
+79-Team name: Philadelphia Flyers Year: 1992 Wins: 36 Loses: 37
+80-Team name: Philadelphia Flyers Year: 1993 Wins: 35 Loses: 39
+81-Team name: Philadelphia Flyers Year: 1994 Wins: 28 Loses: 16
+82-Team name: Philadelphia Flyers Year: 1995 Wins: 45 Loses: 24
+83-Team name: Pittsburgh Penguins Year: 1990 Wins: 41 Loses: 33
+84-Team name: Pittsburgh Penguins Year: 1992 Wins: 56 Loses: 21
+85-Team name: Pittsburgh Penguins Year: 1993 Wins: 44 Loses: 27
+86-Team name: Pittsburgh Penguins Year: 1994 Wins: 29 Loses: 16
+87-Team name: Pittsburgh Penguins Year: 1995 Wins: 49 Loses: 29
+88-Team name: Quebec Nordiques Year: 1990 Wins: 16 Loses: 50
+89-Team name: Quebec Nordiques Year: 1992 Wins: 47 Loses: 27
+90-Team name: Quebec Nordiques Year: 1993 Wins: 34 Loses: 42
+91-Team name: Quebec Nordiques Year: 1994 Wins: 30 Loses: 13
+92-Team name: San Jose Sharks Year: 1992 Wins: 11 Loses: 71
+93-Team name: San Jose Sharks Year: 1993 Wins: 33 Loses: 35
+94-Team name: San Jose Sharks Year: 1994 Wins: 19 Loses: 25
+95-Team name: San Jose Sharks Year: 1995 Wins: 20 Loses: 55
+96-Team name: St. Louis Blues Year: 1990 Wins: 47 Loses: 22
+97-Team name: St. Louis Blues Year: 1992 Wins: 37 Loses: 36
+98-Team name: St. Louis Blues Year: 1993 Wins: 40 Loses: 33
+99-Team name: St. Louis Blues Year: 1994 Wins: 28 Loses: 15
+100-Team name: St. Louis Blues Year: 1995 Wins: 32 Loses: 34
+101-Team name: Tampa Bay Lightning Year: 1992 Wins: 23 Loses: 54
+102-Team name: Tampa Bay Lightning Year: 1993 Wins: 30 Loses: 43
+103-Team name: Tampa Bay Lightning Year: 1994 Wins: 17 Loses: 28
+104-Team name: Tampa Bay Lightning Year: 1995 Wins: 38 Loses: 32
+105-Team name: Toronto Maple Leafs Year: 1990 Wins: 23 Loses: 46
+106-Team name: Toronto Maple Leafs Year: 1992 Wins: 44 Loses: 29
+107-Team name: Toronto Maple Leafs Year: 1993 Wins: 43 Loses: 29
+108-Team name: Toronto Maple Leafs Year: 1994 Wins: 21 Loses: 19
+109-Team name: Toronto Maple Leafs Year: 1995 Wins: 34 Loses: 36
+110-Team name: Vancouver Canucks Year: 1990 Wins: 28 Loses: 43
+111-Team name: Vancouver Canucks Year: 1992 Wins: 46 Loses: 29
+112-Team name: Vancouver Canucks Year: 1993 Wins: 41 Loses: 40
+113-Team name: Vancouver Canucks Year: 1994 Wins: 18 Loses: 18
+114-Team name: Vancouver Canucks Year: 1995 Wins: 32 Loses: 35
+115-Team name: Washington Capitals Year: 1990 Wins: 37 Loses: 36
+116-Team name: Washington Capitals Year: 1992 Wins: 43 Loses: 34
+117-Team name: Washington Capitals Year: 1993 Wins: 39 Loses: 35
+118-Team name: Washington Capitals Year: 1994 Wins: 22 Loses: 18
+119-Team name: Washington Capitals Year: 1995 Wins: 39 Loses: 32
+120-Team name: Winnipeg Jets Year: 1990 Wins: 26 Loses: 43
+121-Team name: Winnipeg Jets Year: 1992 Wins: 40 Loses: 37
+122-Team name: Winnipeg Jets Year: 1993 Wins: 24 Loses: 51
+123-Team name: Winnipeg Jets Year: 1994 Wins: 16 Loses: 25
+124-Team name: Winnipeg Jets Year: 1995 Wins: 36 Loses: 40
